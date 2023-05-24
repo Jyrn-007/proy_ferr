@@ -1,0 +1,11 @@
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.vcxproj.AssemblyReference.cache
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.vcxproj.SuggestedBindingRedirects.cache
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.confus.resources
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.inicio.resources
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.iniciousempleados.resources
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.iniciousuario.resources
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.login.resources
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.vcxproj.GenerateResource.cache
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.exe
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.formentrada.resources
+C:\Programación 1\Proyfinprogra1\proyfereteria\x64\Debug\proyfereteria.formsalida.resources
